@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/jihyunca/java_made_easy/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Java is one of my favourite langauges but also one of the first languages I have ever learnt. Through these tips we will go through how to use the language and the cool things we can do with it. 
 
 ```markdown
 Syntax highlighted code block
