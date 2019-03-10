@@ -15,6 +15,25 @@ Data types describe what _kind_ of data the item is. This can tell you what kind
 
 In the following, each data type will be explained and there will also be an example of what classifies as this specific data type. This will also show how to initialize these types, but details on initialization will be explained later in this tutorial. 
 
+**Integer:**
+
+Example: 
+```
+int 5 = 7;
+int student = 11023301;
+```
+Anything that you would consider an integer in math is the same thing in coding. 
+
+**Float:**
+
+Floats using floating point types. Essentially, whereas integers represent whole numbers, floats can represent decimal values. 
+
+**Character:**
+
+A character is a single character value. 
+
+
+
 
 ```markdown
 Syntax highlighted code block
