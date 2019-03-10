@@ -1,12 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Java Made Easy
 
-You can use the [editor on GitHub](https://github.com/jihyunca/java_made_easy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Lizzie and I am CS student at the University of Waterloo. Java is one of the languages I'm most familiar with and I thought it would be a great opportunity for everyone to get to know the language, or even to get into coding. 
 
 ### Introduction
 
 Java is one of my favourite langauges but also one of the first languages I have ever learnt. Through these tips we will go through how to use the language and the cool things we can do with it. 
+
+Java is an object-oriented programming language. It helps solve complex problems in a systematic approach. The user can create modules that can be used over and over again, instead of having to create it each time it is needed. 
+
+### Data Types
+
+What are data types? 
+Data types describe what _kind_ of data the item is. This can tell you what kind of value the item can take. 
+
+In the following, each data type will be explained and there will also be an example of what classifies as this specific data type. This will also show how to initialize these types, but details on initialization will be explained later in this tutorial. 
+
 
 ```markdown
 Syntax highlighted code block
