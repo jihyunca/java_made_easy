@@ -31,34 +31,15 @@ Floats using floating point types. Essentially, whereas integers represent whole
 **Character:**
 
 A character is a single character value. 
+Think of characters as you would in plain English. We know the alphabet to be a character and this is a similar mindset when it comes to programming. Any character such as A, or a, (lowercase or uppercase) can be a character.
 
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Example: 
 ```
+char some_char = 'a';
+```
+However, anything you can essentially see on the keyboard such as special character like (@ * &) or numbers (1 2 3 4 5) can be characters. Although, to be cautioned, numbers are dealt as characters not actual numbers for mathematical operations. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+These characters are put on what is called a ASCII value where we assign a numerical value to each character to make comparisons easier for later on. 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jihyunca/java_made_easy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
