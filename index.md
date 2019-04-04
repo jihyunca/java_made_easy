@@ -1,6 +1,7 @@
 ## Welcome to Java Made Easy
 
-My name is Lizzie and I am CS student at the University of Waterloo. Java is one of the languages I'm most familiar with and I thought it would be a great opportunity for everyone to get to know the language, or even to get into coding. 
+My name is Lizzie and I am CS student at the University of Waterloo. :bowtie:
+Java is one of the languages I'm most familiar with and I thought it would be a great opportunity for everyone to get to know the language, or even to get into coding. 
 
 ### Introduction
 
